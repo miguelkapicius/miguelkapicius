@@ -1,4 +1,4 @@
-## Olá, meu nome é Miguel! 🤙
+# Olá, meu nome é Miguel! 🤙
 
 <picture>
   <source
@@ -14,4 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelkapicius&theme=tokyonight&layout=donut)](https://github.com/miguelkapicius/github-readme-stats)
 
-[![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)
+##
+
+[![Skills](https://devicons.dev.br/icons?icon=Python,html,css,javascript,astro,figma,linux&theme=dark)](https://devicons.dev.br/)
