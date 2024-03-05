@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### Main skills:
+  ### Main skills
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
   ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0d1117)&nbsp;
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  ### Studying in this moment:
+  ### Studying in this moment
   ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
   ![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
