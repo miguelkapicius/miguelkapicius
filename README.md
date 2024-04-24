@@ -16,10 +16,8 @@
 <div align="center">
 
   ### Studying in this moment
-  ![React](https://img.shields.io/badge/React-F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-F7DF1E.svg?style=for-the-badge&logo=python&logoColor=black)
-  ![Flask](https://img.shields.io/badge/Flask-F7DF1E.svg?style=for-the-badge&logo=flask&logoColor=black)&nbsp;
+  ![Dart](https://img.shields.io/badge/Dart-F7DF1E.svg?style=for-the-badge&logo=dart&logoColor=black)&nbsp;
+  ![Flutter](https://img.shields.io/badge/Flutter-F7DF1E.svg?style=for-the-badge&logo=flutter&logoColor=black)&nbsp;
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=120&section=footer"/>
