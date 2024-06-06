@@ -6,7 +6,6 @@
   
   ### Main skills
   ![JavaScript](https://img.shields.io/badge/JavaScript-D9F27E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-D9F27E.svg?style=for-the-badge&logo=java&logoColor=black)
   ![HTML](https://img.shields.io/badge/HTML5-D9F27E.svg?style=for-the-badge&logo=HTML5&logoColor=black)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-D9F27E.svg?style=for-the-badge&logo=CSS3&logoColor=black)&nbsp;
 </div>
@@ -16,7 +15,6 @@
 <div align="center">
 
   ### Studying in this moment
-  ![Spring](https://img.shields.io/badge/Spring-D9F27E.svg?style=for-the-badge&logo=spring&logoColor=black)&nbsp;
   ![React](https://img.shields.io/badge/React-D9F27E.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 </div>
 
