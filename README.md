@@ -3,7 +3,8 @@
 Desenvolvedor Full-stack
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Miguel%20Kapicius-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelkapicius)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-miguelkapicius@gmail.com-red?style=flat-square&logo=gmail)](mailto:miguelkapicius@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Email-miguelkapicius@gmail.com-blue?style=flat-square&logo=nada)](mailto:miguelkapicius@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-miguelk.com-blue?style=flat-square&logo=portfolio)](https://www.miguelk.com)
 
 Sempre aprendendo, sempre programando, sempre inovando.
 
