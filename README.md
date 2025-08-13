@@ -1,11 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F27E&height=120&section=header"/>
+# Miguel Kapicius
 
+Desenvolvedor Full-stack
 
-<div align="center">
-  
-  ## Important Links
-  <a href="https://www.miguelk.com" target="_blank">Portfolio</a>
-  <a href="https://www.linkedin.com/in/miguelkapicius" target="_blank">LinkedIn</a>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Miguel%20Kapicius-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelkapicius)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-miguelkapicius@gmail.com-red?style=flat-square&logo=gmail)](mailto:miguelkapicius@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9F27E&height=120&section=footer"/>
+Sempre aprendendo, sempre programando, sempre inovando.
+
+Apaixonado por aprender, resolver problemas e transformar ideias em projetos práticos. Estou constantemente buscando aprimorar minhas habilidades e contribuir para o mundo da tecnologia.  
+
+> "O verdadeiro poder da tecnologia está em quem a usa para criar e melhorar o mundo."
